@@ -1,0 +1,2 @@
+# SingleScriptMurder
+我想借助AI开发一个单人剧本杀游戏，一个人也可以速开剧本杀
